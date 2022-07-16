@@ -1,10 +1,10 @@
-# Multivariate Analysis
+# Multivariate Analysis on Fish Species
 
-this project seeks to explore ways in which we can distinguish species of fish based on their measurements and see how they differ
+This project seeks to explore ways in which we can distinguish species of fish based on their measurements and see how they differ
 and all of this will be accomplished using multivariate analysis techniques.
 
 # Tool Used
-R studio 
+-R studio 
 
 Refer to doc for Findings
 
