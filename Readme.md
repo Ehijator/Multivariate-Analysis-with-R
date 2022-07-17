@@ -11,7 +11,7 @@ Multivariate Analysis is a perfect match for the robust and complex systems seen
 # Tool Used
 -R studio 
 
-# What are your findings
+# What are your findings?
 In the doc attached I document the relationships between these variables extensively, please check it out
 
 # Contact me on:
